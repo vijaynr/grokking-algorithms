@@ -1,4 +1,3 @@
-
 def frequency_count(arr):
     freq_dict = {}
     for item in arr:

@@ -20,7 +20,7 @@ def factorial_tail_rec(n, fact=1):
     print("n=%d, fact=%d" % (n, fact))
     if n <= 1:
         return fact
-    return factorial_tail_rec(n-1, fact*n)
+    return factorial_tail_rec(n - 1, fact * n)
 
 
 print(factorial_loop(5))

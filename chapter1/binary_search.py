@@ -13,6 +13,7 @@ def binary_search(arr, item):
         else:
             return mid
 
+
 def binary_search_rec(arr, item):
     low = 0
     high = len(arr) - 1
@@ -35,4 +36,3 @@ def binary_search_rec(arr, item):
 
 arr = [1, 3, 4, 5, 6, 7]
 print(binary_search(arr, 4))
-
