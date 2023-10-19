@@ -1,2 +1,2 @@
 # grokking-algorithms
-Examples from Grokking Algorithms
+Practicing the concepts and examples from Grokking Algorithms Book
